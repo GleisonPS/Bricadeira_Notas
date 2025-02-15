@@ -48,6 +48,7 @@ const Nota minhaMusica[] = {
 ## 📌 Possíveis Melhorias
 
 ✅ Criar um menu interativo para escolher a música a ser reproduzida.
+
 ✅ Implementar suporte a arquivos externos para leitura de músicas.
 
 ---
